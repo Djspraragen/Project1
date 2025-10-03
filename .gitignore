@@ -1,0 +1,14 @@
+# Compiled executabel files
+
+*.exe
+*.out
+*.app
+
+#Object files from compilation
+*.o
+*.obj
+
+# buil directories DO NOT UPLOAD THESE
+bin/
+debug/
+
